@@ -2,7 +2,7 @@
 
 This is a small example of making a cross-platform mobile application using [Scala](https://www.scala-lang.org/) and [Capacitor](https://capacitorjs.com/).
 
-This repo accompanies a blog post that I wrote (see [here](todo))
+This repo accompanies a blog post that I wrote (see [here](https://antoine-doeraene.medium.com/cross-platform-mobile-dev-with-scala-and-capacitor-54e69b62b50c))
 
 ## Requirements
 
